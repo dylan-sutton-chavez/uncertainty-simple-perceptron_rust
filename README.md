@@ -40,3 +40,9 @@ Cargo.toml
 cargo run # Inferenece.
 cargo test # Run integration tests.
 ```
+
+## Requirements
+
+```txt
+cargo
+```
